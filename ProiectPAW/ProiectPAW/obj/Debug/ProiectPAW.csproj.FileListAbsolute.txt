@@ -1,0 +1,10 @@
+D:\C#\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe.config
+D:\C#\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.exe
+D:\C#\ProiectPAW\ProiectPAW\bin\Debug\ProiectPAW.pdb
+D:\C#\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csprojAssemblyReference.cache
+D:\C#\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Properties.Resources.resources
+D:\C#\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.GenerateResource.cache
+D:\C#\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.csproj.CoreCompileInputs.cache
+D:\C#\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.exe
+D:\C#\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.pdb
+D:\C#\ProiectPAW\ProiectPAW\obj\Debug\ProiectPAW.Form1.resources
